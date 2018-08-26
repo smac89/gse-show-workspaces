@@ -13,6 +13,7 @@ dynamic workspaces.
 - [Modern Javascript in GNOME - PDF](https://2017.guadec.org/wp-content/uploads/2017/06/Philip-Chimento-GUADEC-2017-Modern-Javascript-in-GNOME.pdf)
 - http://devdocs.baznga.org/
 - [imports.ui](https://github.com/GNOME/gnome-shell/blob/3.28.3/js/ui/overviewControls.js)
+- [gnome-shell-reference](https://github.com/julio641742/gnome-shell-extension-reference)
 
 ## Licence
 
